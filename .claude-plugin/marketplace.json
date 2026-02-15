@@ -1,0 +1,14 @@
+{
+  "name": "trappi-tools",
+  "owner": {
+    "name": "Daniele Trapani",
+    "email": "daniele.trapani@outlook.it"
+  },
+  "plugins": [
+    {
+      "name": "browser-automation-lite",
+      "source": "./plugins/browser-automation-lite",
+      "description": "Lightweight browser automation toolkit using Chrome DevTools Protocol for web scraping, content extraction, element inspection, and browser testing"
+    }
+  ]
+}

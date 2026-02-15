@@ -1,0 +1,5 @@
+{
+  "name": "browser-automation-lite",
+  "version": "1.0.0",
+  "description": "Lightweight browser automation toolkit using Chrome DevTools Protocol for web scraping, content extraction, element inspection, and browser testing"
+}
